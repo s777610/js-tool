@@ -1,0 +1,17 @@
+{
+  "name": "tool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "commit": "npx git-cz"
+  },
+  "dependencies": {
+    "jest": "^26.1.0",
+    "lodash": "^4.17.19",
+    "moment": "^2.27.0",
+    "moment-timezone": "^0.5.31",
+    "number-precision": "^1.5.0",
+    "uuid": "^8.2.0"
+  }
+}
